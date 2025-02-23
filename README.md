@@ -115,9 +115,9 @@
 <h2 align="left">My Statistics</h2>
 
 ###
-
-<div align="left">
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+| ![Hasara's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasaraSankalpaDEv&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasaraSankalpaDEv&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=HasaraSankalpaDEv&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ###
 
