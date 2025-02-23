@@ -1,7 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+I'm +Hasara+Sankalpa.+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Hello!+I'm+Hasara+Sankalpa.;Welcome+to+my+GitHub+page." alt="Typing SVG">
+  </a>
+
 </div>
+
 
 ###
 
