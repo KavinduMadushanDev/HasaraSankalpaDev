@@ -117,8 +117,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasaraSankalpaDEv&radius=16&theme=vue&area=true&order=5&hide_border=true&hide_title=true&custom_title=My%20Statistics" height="200" alt="activity-graph graph"  />
-</div>
+<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 
 ###
 
