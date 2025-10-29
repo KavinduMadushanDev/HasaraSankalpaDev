@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">My Name is Kavindu Madushan. I'm from   Sri Lanka. I'm a  Full Stack Web Developer.</p>
+<p align="left">My Name is Hasara Sankalpa. I'm from   Sri Lanka. I'm a  Full Stack Web Developer.</p>
 
 ###
 
